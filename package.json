@@ -1,0 +1,24 @@
+{
+  "name": "my-first-js-action-by-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandroquinonesdb/My-First-JS-Action-by-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandroquinonesdb/My-First-JS-Action-by-me/issues"
+  },
+  "homepage": "https://github.com/sandroquinonesdb/My-First-JS-Action-by-me#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.1"
+  }
+}
